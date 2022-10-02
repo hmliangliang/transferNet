@@ -1,2 +1,2 @@
 # transferNet
-transferCL的执行主文件为execution.py，为一直多层次注意力机制的深度排序算法；transferModel.py执行的是transferCL迁移学习
+transferCL的执行主文件为execution.py，为一种多层次注意力机制的深度排序算法；transferModel.py执行的是transferCL迁移学习，从实际效果来看，迁移学习的效果不太好，远赶不上直接把transferCL模型直接在目标数据中进行训练。
